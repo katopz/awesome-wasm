@@ -12,3 +12,6 @@ WebAssembly FTW
 
 ## Rust
 - Rust 🦀 and WebAssembly 🕸: https://rustwasm.github.io/docs/book/introduction.html
+
+## State of
+- Benchmark of WebAssembly runtimes - 2021 Q1: https://00f.net/2021/02/22/webassembly-runtimes-benchmarks/
