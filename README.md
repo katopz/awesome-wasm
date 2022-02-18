@@ -20,4 +20,5 @@ WebAssembly FTW
 - Rust 🦀 and WebAssembly 🕸: https://rustwasm.github.io/docs/book/introduction.html
 
 ## State of...
+- Talk: the Nuts and Bolts of Webassembly- 2019: http://sriku.org/blog/2019/08/24/talk-the-nuts-and-bolts-of-webassembly/
 - Benchmark of WebAssembly runtimes - 2021 Q1: https://00f.net/2021/02/22/webassembly-runtimes-benchmarks/
