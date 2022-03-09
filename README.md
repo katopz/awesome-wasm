@@ -1,5 +1,5 @@
 # awesome-wasm
-WebAssembly FTW
+WebAssembly focus on Rust and 2020+ tech
 
 ![](https://coggle-downloads-production.s3.eu-west-1.amazonaws.com/dbf8651c5d54894ca0a5ca5ba027e36c37701f1d40fa25f16052bd0e40077d41/webassembly-icon_WASM_WebAssembly.png?AWSAccessKeyId=ASIA4YTCGXFHFOCR63GD&Expires=1646831926&Signature=THHNts7FJ7L3Q2CNz3ECNrv0X3A%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEGcaCWV1LXdlc3QtMSJGMEQCIDBTUChG3ARqpqlpWJxBpPNcyYTJjvF1YK3kYIQIopt9AiA2xEK7Yk%2BN2JTyQwSXKf7qElBQHJSZEArIFR%2Fl50vpcyqlAgjP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDg3NzQ1MzAzMTc1OCIMM4NkO02nBgYxIj6DKvkBnuJBaLVjK%2B6v8eeSMXfFP2XleKgi48nlMO5aRBTMyNcJYir7kTBTlB1t2F0rHs6ZhWhkIxLmrcwagOILPr7IQF5lav4AHTwUgO1QB7Tp6kReXfbxX3B6LSjWFbqQwmLm2P3jc2YVzQw54IkvFeuyFm291F64rcGyDy7e8fcwTauilnSsyvjoShjIV3iK2lsQQfR75QRvDkLw0oBQHnUTJebCdGfJCptpbMkltsA9953dccufErzXWgFf9wIBwAMF5qCxubN%2FmWpM%2Bq9JUtE6hRFRB7yz5OEdp3qNGEbE3ozzXwiV4Yr8dKMSpRiM6XqC0TUKXw38vIaMMMyOoZEGOpsBkDzoKTAe6XJldyD9ACewyVQLDeMlo9EyluGKVLLhVlPzN0G%2BfCr7h83PYksjp%2B0gZBcgLnXehc5y5V6l2bmD288O3qs5G22usjl8m5pYbrDHM34w11S6urwhVbn9CWn2eKLW2eHAqt5rvb0qOjivIOfrx5QIpAoyHMnuo%2B5YH4oWKk0K7GJ5LetuWXk%2B1QYAGVq7148IGRe0x28%3D)
 > https://coggle.it/diagram/YgSRKkMks4i53-Ps/t/webassembly-icon-wasm-webassembly
@@ -47,3 +47,6 @@ WebAssembly FTW
 ## State of...
 - Talk: the Nuts and Bolts of Webassembly- 2019: http://sriku.org/blog/2019/08/24/talk-the-nuts-and-bolts-of-webassembly/
 - Benchmark of WebAssembly runtimes - 2021 Q1: https://00f.net/2021/02/22/webassembly-runtimes-benchmarks/
+
+## Read more...
+- https://github.com/mbasso/awesome-wasm
