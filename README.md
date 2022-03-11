@@ -35,6 +35,10 @@ WebAssembly focus on Rust (on going)
 - https://www.vedereai.com/supercharging-the-tensorflow-js-webassembly-backend-with-simd-and-multi-threading/
 - https://arxiv.org/pdf/2110.07128.pdf
 
+## Image Processing
+- `Photon`: https://silvia-odwyer.github.io/photon/
+  > Photon is a high-performance image processing library, written in Rust and compilable to WebAssembly, which can be used both natively and on the web.
+
 ## Blockchain
 - https://arxiv.org/pdf/2012.01032.pdf
 
