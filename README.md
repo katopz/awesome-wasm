@@ -44,6 +44,10 @@ WebAssembly focus on Rust (on going)
 ## Blockchain
 - https://arxiv.org/pdf/2012.01032.pdf
 
+## Embedded systems
+- https://rahul-thakoor.github.io/using-no-standard-library-crates-with-webassembly/
+  > A good rule of thumb is that if a crate supports embedded and #![no_std] usage, it probably also supports WebAssembly.
+
 ## Security
 - https://www.usenix.org/system/files/sec20-lehmann.pdf
 
