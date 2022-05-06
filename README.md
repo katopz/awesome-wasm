@@ -9,6 +9,8 @@ WebAssembly focus on Rust (on going)
 - What WebAssembly means for React - Lin Clark aka @linclark at @ReactEurope 2017: https://www.youtube.com/watch?v=3GHJ4cbxsVQ
 - Bringing WebAssembly outside the web with WASI by Lin Clark 2019: https://www.youtube.com/watch?v=fh9WXPu0hw8
 - Lin Clark — WebAssembly: Building a new kind of ecosystem 2020: https://www.youtube.com/watch?v=IBZFJzGnBoU
+- Lin Clark on the Web Assembly Component Model: https://www.youtube.com/watch?v=HktWin_LPf4
+- Keynote: WASI - A new kind of system interface & what it means for cloud native - Lin Clark, Fastly: https://www.youtube.com/watch?v=k3HDivg3xyc
 
 ## Extras
 - `SIMD`: https://medium.com/wasmer/webassembly-and-simd-13badb9bf1a8
