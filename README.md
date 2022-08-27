@@ -61,5 +61,8 @@ WebAssembly focus on Rust (on going)
 - Benchmark of WebAssembly runtimes - 2021 Q1: https://00f.net/2021/02/22/webassembly-runtimes-benchmarks/
 - Rust and WebAssembly without a Bundler: https://tung.github.io/posts/rust-and-webassembly-without-a-bundler/
 
+## Tools
+- Package Manager: https://wapm.io/
+
 ## Read more...
 - https://github.com/mbasso/awesome-wasm
