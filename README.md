@@ -64,5 +64,8 @@ WebAssembly focus on Rust (on going)
 ## Tools
 - Package Manager: https://wapm.io/
 
+## Good read
+- Rust And WebAssembly For the masses - Sharing Classes: https://sendilkumarn.com/blog/rustwasm-sharing-classes/
+
 ## Read more...
 - https://github.com/mbasso/awesome-wasm
