@@ -63,6 +63,8 @@ WebAssembly focus on Rust (on going)
 
 ## Tools
 - Package Manager: https://wapm.io/
+- Watt: https://github.com/dtolnay/watt
+  > Compiling macros ahead-of-time to Wasm.
 
 ## Good read
 - Rust And WebAssembly For the masses - Sharing Classes: https://sendilkumarn.com/blog/rustwasm-sharing-classes/
