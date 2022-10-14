@@ -66,6 +66,9 @@ WebAssembly focus on Rust (on going)
 - Watt: https://github.com/dtolnay/watt
   > Compiling macros ahead-of-time to Wasm.
 
+## Examples
+- wasm-by-example: https://github.com/torch2424/wasm-by-example
+
 ## Good read
 - Rust And WebAssembly For the masses - Sharing Classes: https://sendilkumarn.com/blog/rustwasm-sharing-classes/
 - Avoiding allocations in Rust to shrink Wasm modules: https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/
