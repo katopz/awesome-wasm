@@ -66,6 +66,9 @@ WebAssembly focus on Rust (on going)
 - Watt: https://github.com/dtolnay/watt
   > Compiling macros ahead-of-time to Wasm.
 
+## Book
+- The `wasm-bindgen` Guide: https://rustwasm.github.io/wasm-bindgen/
+
 ## Examples
 - wasm-by-example: https://github.com/torch2424/wasm-by-example
 
