@@ -68,6 +68,7 @@ WebAssembly focus on Rust (on going)
 
 ## Good read
 - Rust And WebAssembly For the masses - Sharing Classes: https://sendilkumarn.com/blog/rustwasm-sharing-classes/
+- Avoiding allocations in Rust to shrink Wasm modules: https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/
 
 ## Read more...
 - https://github.com/mbasso/awesome-wasm
