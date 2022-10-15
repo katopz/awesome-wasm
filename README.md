@@ -26,6 +26,8 @@ WebAssembly focus on Rust (on going)
   > Yew is a modern Rust framework for creating multi-threaded front-end web apps using WebAssembly.
 - Gloo : https://github.com/rustwasm/gloo
   > Rust wrappers for browser, `web-sys/js-sys` replacement.
+- Integrating a Svelte app with Rust using WebAssembly: https://blog.logrocket.com/integrating-svelte-app-rust-webassembly/
+- WASM (with Rust) + Vite + Svelte Monorepo: https://github.com/dsegovia90/wasm-vite-svelte-monorepo
 
 ## DevOps
 - Docker + WASM: https://wasmedge.org/book/en/frameworks/serverless.html
