@@ -81,6 +81,8 @@ WebAssembly focus on Rust (on going)
 - Avoiding allocations in Rust to shrink Wasm modules: https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/
 - Don't freak, but our Rust web server is now Node.js: https://nickb.dev/blog/dont-freak-but-our-rust-web-server-is-now-nodejs/
 - Avoiding allocations in Rust to shrink Wasm modules: https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/
+- OpenTally dev log: https://yingtongli.me/blog/tag/webassembly/
+- wasmbin: a self-generating WebAssembly parser & serializer: https://rreverser.com/wasmbin-yet-another-webassembly-parser-serializer/
 
 ## Read more...
 - https://github.com/mbasso/awesome-wasm
