@@ -83,6 +83,7 @@ WebAssembly focus on Rust (on going)
 - Avoiding allocations in Rust to shrink Wasm modules: https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/
 - OpenTally dev log: https://yingtongli.me/blog/tag/webassembly/
 - wasmbin: a self-generating WebAssembly parser & serializer: https://rreverser.com/wasmbin-yet-another-webassembly-parser-serializer/
+- Using asynchronous web APIs from WebAssembly: https://web.dev/asyncify/
 
 ## Read more...
 - https://github.com/mbasso/awesome-wasm
