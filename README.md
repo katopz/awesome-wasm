@@ -67,6 +67,8 @@ WebAssembly focus on Rust (on going)
 - Package Manager: https://wapm.io/
 - Watt: https://github.com/dtolnay/watt
   > Compiling macros ahead-of-time to Wasm.
+- Twiggy🌱: https://rustwasm.github.io/twiggy/index.html
+  > A code size profiler for Wasm.
 
 ## Book
 - The `wasm-bindgen` Guide: https://rustwasm.github.io/wasm-bindgen/
