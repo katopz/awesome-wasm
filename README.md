@@ -84,6 +84,7 @@ WebAssembly focus on Rust (on going)
 - OpenTally dev log: https://yingtongli.me/blog/tag/webassembly/
 - wasmbin: a self-generating WebAssembly parser & serializer: https://rreverser.com/wasmbin-yet-another-webassembly-parser-serializer/
 - Using asynchronous web APIs from WebAssembly: https://web.dev/asyncify/
+- sendilkumarn: https://sendilkumarn.com/blog/tag/rust/
 
 ## Read more...
 - https://github.com/mbasso/awesome-wasm
