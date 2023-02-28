@@ -31,6 +31,10 @@ WebAssembly focus on Rust (on going)
 - WASM (with Rust) + Vite + Svelte Monorepo: https://github.com/dsegovia90/wasm-vite-svelte-monorepo
 - Leptos: https://github.com/gbj/leptos
 
+## Game
+- https://bevy-cheatbook.github.io/platforms/wasm.html
+- https://grantshandy.github.io/posts/raycasting/
+
 ## DevOps
 - Docker + WASM: https://wasmedge.org/book/en/frameworks/serverless.html
 - Kubecon EU 2021 Keynote - Cloud Native and WebAssembly: Better Together: https://cosmonic.com/blog/kubecon-eu-2021-webassembly-keynote-cloud-native-and-wasm-better-together/
