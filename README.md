@@ -33,6 +33,7 @@ WebAssembly focus on Rust (on going)
 
 ## Game
 - https://bevy-cheatbook.github.io/platforms/wasm.html
+- https://github.com/aduros/wasm4
 - https://grantshandy.github.io/posts/raycasting/
 
 ## DevOps
